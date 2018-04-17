@@ -1,0 +1,17 @@
+
+
+.opOdd {
+    background-color: #555;
+    text-align: center;
+  }
+
+  #title {
+    background-color: #555;
+    text-align: center;
+    color: #999;
+  }
+
+  .sprite {
+      background-image: url('/sprites/form-elements-sprite.png');
+      background-repeat: no-repeat;
+  }
